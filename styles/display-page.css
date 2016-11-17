@@ -1,8 +1,8 @@
 main {
   font-size: 0;
 }
-.bigbox {
-  top-margin: 50px;
+.big-box {
+  margin-top: 50px;
   margin-left: auto;
   margin-right: auto;
   width: 800px;
